@@ -1,6 +1,20 @@
-Para bom funcionamento das atividades, é necessário instalar as seguintes dependencias:
+# Instalação das Dependências
 
-  React Router Dom instalado: npm install react-router-dom
-  React Icons instalado: npm install react-icons
-  Tailwind CSS instalado: npm install tailwindcss
-  React Toastify instalado: npm install react-toastify e npm install --save react-toastify
+Para garantir o bom funcionamento das atividades, instale as seguintes dependências:
+
+- **React Router Dom**  
+  Instale com o comando:  
+  `npm install react-router-dom`
+
+- **React Icons**  
+  Instale com o comando:  
+  `npm install react-icons`
+
+- **Tailwind CSS**  
+  Instale com o comando:  
+  `npm install tailwindcss`
+
+- **React Toastify**  
+  Instale com os seguintes comandos:  
+  `npm install react-toastify`  
+  `npm install --save react-toastify`
